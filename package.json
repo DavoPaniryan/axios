@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "server": "npx json-server -p 4000 -w data.json"
+  },
+  "dependencies": {
+    "json-server": "^1.0.0-beta.3",
+    "xhr2": "^0.2.1"
+  }
+}
